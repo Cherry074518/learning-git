@@ -1,6 +1,7 @@
 public class Hello {
     public static void main(String[] args){
         System.out.println("Hello World");
+        greet();
     }
     public static void greet() {
         System.out.println("This is new method from my branch");
