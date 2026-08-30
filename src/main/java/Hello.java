@@ -2,7 +2,7 @@ public class Hello {
     public static void main(String[] args){
         System.out.println("Hello World");
     }
-    public void greet() {
+    public static void greet() {
         System.out.println("This is new method from my branch");
     }
 }
